@@ -4,9 +4,9 @@ import { useRouter } from "next/router";
 import { Flex, useBreakpointValue } from "@chakra-ui/react";
 import { Header } from "../../components/Header";
 import { Continent } from "../../types/continent";
-import { Banner } from "./components/Banner";
-import { CitiesList } from "./components/CitiesList";
-import { ContinentData } from "./components/ContinentData";
+import { Banner } from "../../components/pages/continents/Banner";
+import { CitiesList } from "../../components/pages/continents/CitiesList";
+import { ContinentData } from "../../components/pages/continents/ContinentData";
 
 
 export default function Continents() {

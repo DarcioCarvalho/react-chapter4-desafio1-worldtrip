@@ -19,7 +19,7 @@ export function Banner() {
         w="full"
         justifyContent={{ base: '', md: 'space-around' }}
         pl={{ base: '1rem', md: '' }}
-        bgImg="/assets/Background.svg"
+        bgImg="./assets/Background.svg"
         bgRepeat="no-repeat"
       >
 

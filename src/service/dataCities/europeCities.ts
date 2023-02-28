@@ -6,7 +6,7 @@ export const europeCities: CityWithPexels[] = [
     name: 'Londres',
     country: 'Reino Unido',
     countryCode: 'gb',
-    imageURL: '/assets/cities/londres.png',
+    imageURL: './assets/cities/londres.png',
     photos: [
       'https://images.pexels.com/photos/968299/pexels-photo-968299.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
       'https://images.pexels.com/photos/7245332/pexels-photo-7245332.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
@@ -29,7 +29,7 @@ export const europeCities: CityWithPexels[] = [
     name: 'Paris',
     country: 'França',
     countryCode: 'fr',
-    imageURL: '/assets/cities/paris.png',
+    imageURL: './assets/cities/paris.png',
     photos: [
       'https://images.pexels.com/photos/13457778/pexels-photo-13457778.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
       'https://images.pexels.com/photos/10854937/pexels-photo-10854937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
@@ -52,7 +52,7 @@ export const europeCities: CityWithPexels[] = [
     name: 'Roma',
     country: 'Itália',
     countryCode: 'it',
-    imageURL: '/assets/cities/roma.png',
+    imageURL: './assets/cities/roma.png',
     photos: [
       'https://images.pexels.com/photos/12268455/pexels-photo-12268455.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
       'https://images.pexels.com/photos/13504730/pexels-photo-13504730.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
@@ -75,7 +75,7 @@ export const europeCities: CityWithPexels[] = [
     name: 'Praga',
     country: 'República Tcheca',
     countryCode: 'cz',
-    imageURL: '/assets/cities/praga.png',
+    imageURL: './assets/cities/praga.png',
     photos: [
       'https://images.pexels.com/photos/2346216/pexels-photo-2346216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
       'https://images.pexels.com/photos/2925146/pexels-photo-2925146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
@@ -98,7 +98,7 @@ export const europeCities: CityWithPexels[] = [
     name: 'Amsterdã',
     country: 'Holanda',
     countryCode: 'nl',
-    imageURL: '/assets/cities/amsterda.png',
+    imageURL: './assets/cities/amsterda.png',
     photos: [
       'https://images.pexels.com/photos/14158985/pexels-photo-14158985.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
       'https://images.pexels.com/photos/10617993/pexels-photo-10617993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',

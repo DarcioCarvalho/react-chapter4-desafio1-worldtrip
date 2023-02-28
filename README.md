@@ -1,34 +1,59 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img alt="#Bora Codar - #04 CHAT" src=".github/logo-world-trip.png" />
+</p>
 
-## Getting Started
+<p align="center">
+  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=F7DD43&labelColor=202024" alt="License"></a>
+</p>
 
-First, run the development server:
+## 💻 Projeto
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Essa aplicação de um site de turismo teve dois objetivos principais. O primeiro foi desenvolver toda a interface usando como base o Chakra UI. O outro foi trabalhar o responsivo da aplicação.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Foi iniciada a aplicação Next.js do zero e implementado a interface conforme o layout do Figma.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Para simular o acesso a um banco de dados através de chamadas de API, foi utilizado uma mocking lib[MirajeJS](https://miragejs.com/) contendo todos os dados que a aplicação consome.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+As imagens dos Continentes e Países demonstrado na aplicação foram do [Unsplash](https://unsplash.com/pt-br) e do [pexels](https://www.pexels.com/pt-br/)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+E por fim, foi implementada na página inicial um **_Slides/Carousel_** utilizando a lib [Swiper](https://swiperjs.com/react)
 
-## Learn More
+[ACESSE A APLICAÇÃO](https://darciocarvalho.github.io/react-chapter4-desafio1-worldtrip/)
 
-To learn more about Next.js, take a look at the following resources:
+## ✨ Tecnologia
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js](https://nextjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Chakra UI](https://chakra-ui.com/)
+- [Swiper](https://swiperjs.com/react)
+- [MirageJS](https://miragejs.com/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🚀 Como executar
 
-## Deploy on Vercel
+- Instale o [Node.js](https://nodejs.dev/)
+- Instale o [yarn](https://yarnpkg.com/)
+- Instale os pacotes com `yarn` ou `yarn install` .
+- Execute `yarn dev` para iniciar o cliente web.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🔖 Layout
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Você pode visualizar o layout do projeto através do link abaixo:
+
+- [Layout](https://www.figma.com/file/agUYHwumks8q4rLKWSDSz3/Desafio-1-M%C3%B3dulo-4-ReactJS---WorldTrip?t=IzGSsEg6ukQv6h3z-6)
+
+Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
+
+
+## 📝 License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+<p align="center">
+  Feito com 💙 by Dárcio Carvalho
+</p>
+
+<p align="center">
+  Desenvolvido by Rocketseat :wave: <a href="https://discord.gg/rocketseat">Participe da nossa comunidade!</a> 
+</p>

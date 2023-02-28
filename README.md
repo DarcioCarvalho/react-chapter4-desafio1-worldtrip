@@ -12,7 +12,7 @@ Essa aplicação de um site de turismo teve dois objetivos principais. O primeir
 
 Foi iniciada a aplicação Next.js do zero e implementado a interface conforme o layout do Figma.
 
-Para simular o acesso a um banco de dados através de chamadas de API, foi utilizado uma mocking lib[MirajeJS](https://miragejs.com/) contendo todos os dados que a aplicação consome.
+Para simular o acesso a um banco de dados através de chamadas de API, foi utilizado uma mocking lib [MirajeJS](https://miragejs.com/) contendo todos os dados que a aplicação consome.
 
 As imagens dos Continentes e Países demonstrado na aplicação foram do [Unsplash](https://unsplash.com/pt-br) e do [pexels](https://www.pexels.com/pt-br/)
 

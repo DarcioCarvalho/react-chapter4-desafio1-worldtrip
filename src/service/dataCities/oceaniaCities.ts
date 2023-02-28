@@ -1,5 +1,5 @@
-import { CityWithPexels } from "../../pages/continentsCitiesList";
 import { City } from "../../types/city";
+import { CityWithPexels } from "../../types/cityWithPexels";
 
 export const oceaniaCities: CityWithPexels[] = [
   {

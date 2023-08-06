@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="#Bora Codar - #04 CHAT" src=".github/logo-world-trip.png" />
+  <img alt="IGNITE React - Chapter 04 - Desafio 01 - WorldTrip" src=".github/logo-world-trip.png" />
 </p>
 
 <p align="center">
